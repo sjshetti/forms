@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link type="text/css" rel="stylesheet" href="Styles.css">
     </head>
     <body>
         <form action="NSS_Message.php" method="post">
